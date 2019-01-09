@@ -21,7 +21,7 @@ npm install restify-clients --save
 
 ## Estrutura da API.
 
-[imagemServer]
+![server](https://user-images.githubusercontent.com/17622032/50913350-52f57000-141b-11e9-939f-4893bee64b00.png)
 
 
 ## API com Restify.
@@ -135,7 +135,7 @@ Resultado da chamada da API.
 
 ## Estrutura do Cliente.
 
-[imagemCLiente]
+![cliente](https://user-images.githubusercontent.com/17622032/50913354-5688f700-141b-11e9-902d-883a57ca317a.png)
 
 ## Cliente com Restify.
 
