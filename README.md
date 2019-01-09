@@ -1,4 +1,4 @@
-# Restify - criação de uma API e um Cliente.
+# Criando uma API e um Client com Restify.
 
 Esse código tem como objetivo mostrar o uso do framework Restify para criar e consumir uma api rest.
 
