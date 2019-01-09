@@ -1,0 +1,18 @@
+{
+  "name": "client-rest-pessoa-restify",
+  "version": "1.0.0",
+  "description": "cliente para consumir uma api rest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "client-rest"
+  ],
+  "author": "ciceroednilson",
+  "license": "ISC",
+  "dependencies": {
+    "restify": "^7.4.0",
+    "restify-clients": "^2.6.4"
+  }
+}
