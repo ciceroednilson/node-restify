@@ -13,7 +13,7 @@ npm install restify-router --save
 ```
 ## Download dos arquivos.
 
-Caso você queira fazer download dos pacotes do meu repositório, você deve executar o comando abaixo para baixar todos os modulos do node, pois o diretório node_modules das aplicações estão vazios.
+Caso você queira fazer download das aplicações do meu repositório, você deve executar o comando abaixo para baixar todos os modulos do node, pois o diretório node_modules das aplicações estão vazios, o comando deve ser executado na pasta raiz de cada aplicação.
 
 ```bash
 npm install
@@ -146,7 +146,7 @@ Resultado da chamada da API.
 
 ## Cliente com Restify.
 
-No arquivo app.js vamos ter a chamada da nossa api e o tratamento dos dados de retorno.
+No arquivo app.js vamos ter a chamada da nossa api e o tratamento dos dados retornados.
 
 ```java
 var clients = require('restify-clients');
