@@ -11,6 +11,13 @@ npm install nodemon --save
 npm install restify --save
 npm install restify-router --save
 ```
+## Download dos arquivos.
+
+Caso você queira fazer download dos pacotes do meu repositório, você deve executar o comando abaixo para baixar todos os modulos do node, pois o diretório node_modules das aplicações estão vazios.
+
+```bash
+npm install
+```
 
 ## Pacotes necessários para criação do Cliente.
 
